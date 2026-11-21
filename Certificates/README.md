@@ -1,0 +1,3 @@
+SQL_Basic_Certificate.pdf
+SQL_Intermediate_Certificate.pdf
+SQL_Advanced_Certificate.pdf
